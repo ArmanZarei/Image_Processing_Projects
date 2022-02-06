@@ -30,6 +30,12 @@
     <a href='/src/Texture_Synthesis.ipynb'>Link</a>
 </div>
 
+## Image Completion
+<div align='center'>
+    <div><img src='./images/Image_Completion.png'/></div>
+    <a href='/src/Image_Completion.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
 - [Hybrid Images](/src/Hybrid_Images.ipynb)
