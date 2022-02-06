@@ -1,13 +1,10 @@
 # Image Processing Projects
 
-<ul>
-    <li>
-        <h2>Morphing <span style='font-size: 16px'>(<a href=''>Link</a>)</span></h2>
-        <div style='text-align: center;'>
-            <img src='./images/morphing.gif'/>
-        </div>
-    </li>
-</ul>
+## Morphing
+<div align='center'>
+    <div><img src='./images/morphing.gif'/></div>
+    <a href='/src/Morphing.ipynb'>Link</a>
+</div>
 
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
