@@ -24,6 +24,12 @@
     <a href='/src/Active_Contours.ipynb'>Link</a>
 </div>
 
+## Texture Synthesis
+<div align='center'>
+    <div><img src='./images/Texture_Synthesis.png'/></div>
+    <a href='/src/Texture_Synthesis.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
 - [Hybrid Images](/src/Hybrid_Images.ipynb)
