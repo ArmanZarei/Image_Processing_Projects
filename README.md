@@ -36,6 +36,11 @@
     <a href='/src/Image_Completion.ipynb'>Link</a>
 </div>
 
+## Hybrid Images
+<div align='center'>
+    <div><img src='./images/Hybrid_Images.png'/></div>
+    <a href='/src/Hybrid_Images.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
-- [Hybrid Images](/src/Hybrid_Images.ipynb)
