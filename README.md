@@ -18,6 +18,12 @@
     <a href='/src/Multiresolution_Blending_and_Feathering.ipynb'>Link</a>
 </div>
 
+## Active Contours
+<div align='center'>
+    <div><img src='./images/Active_Contours.gif'/></div>
+    <a href='/src/Active_Contours.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
 - [Hybrid Images](/src/Hybrid_Images.ipynb)
