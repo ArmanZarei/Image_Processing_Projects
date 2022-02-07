@@ -72,6 +72,11 @@
     <a href='/src/Homography_and_Image_Warping.ipynb'>Link</a>
 </div>
 
+## Template Matching
+<div align='center'>
+    <div><img src='./images/Template_Matching.png'/></div>
+    <a href='/src/Template_Matching.ipynb'>Link</a>
+</div>
+
 
 - [Sharpening](/src/Sharpening.ipynb)
-- [Template Matching](/src/Template_Matching.ipynb)
