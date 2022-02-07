@@ -60,5 +60,12 @@
     <a href='/src/SLIC.ipynb'>Link</a>
 </div>
 
+## Hough Transform
+<div align='center'>
+    <div><img src='./images/Hough_Transform.png'/></div>
+    Incomplete (remove extra lines) <a href='/src/SLIC.ipynb'>Link</a>
+</div>
+
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
