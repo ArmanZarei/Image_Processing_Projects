@@ -42,6 +42,12 @@
     <a href='/src/Hybrid_Images.ipynb'>Link</a>
 </div>
 
+## Prokudin-Gorskii Images
+<div align='center'>
+    <div><img src='./images/Prokudin_Gorskii_Images.png'/></div>
+    <a href='/src/Prokudin_Gorskii_Images.ipynb'>Link</a>
+</div>
+
 ## Mean-Shift Segmentation
 <div align='center'>
     <div><img src='./images/Mean_Shift.png'/></div>
