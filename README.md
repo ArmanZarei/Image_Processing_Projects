@@ -42,5 +42,11 @@
     <a href='/src/Hybrid_Images.ipynb'>Link</a>
 </div>
 
+## Mean-Shift Segmentation
+<div align='center'>
+    <div><img src='./images/Mean_Shift.png'/></div>
+    <a href='/src/Mean_Shift.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
