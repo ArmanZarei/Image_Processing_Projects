@@ -48,5 +48,11 @@
     <a href='/src/Mean_Shift.ipynb'>Link</a>
 </div>
 
+## K-Means
+<div align='center'>
+    <div><img src='./images/KMeans.png'/></div>
+    <a href='/src/KMeans.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
