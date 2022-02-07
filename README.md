@@ -81,9 +81,8 @@
 ## Template Matching
 <div align='center'>
     <div><img src='./images/Template_Matching.png'/></div>
-    <a href='/src/Template_Matching.ipynb'>Link</a>
+    <a href='/src/Template_Matching.ipynb'>Link</a> (Incomplete)
 </div>
-
 
 ## Sharpening
 <div align='center'>
@@ -95,4 +94,10 @@
 <div align='center'>
     <div><img src='./images/Color_Processing_and_Blurring.png'/></div>
     <a href='/src/Color_Processing_and_Blurring.ipynb'>Link</a>
+</div>
+
+## Enhancement
+<div align='center'>
+    <div><img src='./images/Enhancement.png'/></div>
+    <a href='/src/Enhancement1.ipynb'>Link 1</a> - <a href='/src/Enhancement2.ipynb'>Link2 </a>
 </div>
