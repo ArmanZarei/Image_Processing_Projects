@@ -79,4 +79,8 @@
 </div>
 
 
-- [Sharpening](/src/Sharpening.ipynb)
+## Sharpening
+<div align='center'>
+    <div><img src='./images/Sharpening.png'/></div>
+    <a href='/src/Sharpening.ipynb'>Link</a>
+</div>
