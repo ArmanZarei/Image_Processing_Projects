@@ -104,4 +104,4 @@
 
 Others:
 - [Convolution](/src/Convolution.ipynb)
-- [Histogram_Specification](/src/Histogram_Specification.ipynb)
+- [Histogram Specification](/src/Histogram_Specification.ipynb)
