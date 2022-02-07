@@ -90,3 +90,9 @@
     <div><img src='./images/Sharpening.png'/></div>
     <a href='/src/Sharpening.ipynb'>Link</a>
 </div>
+
+## Color Processing and Blurring
+<div align='center'>
+    <div><img src='./images/Color_Processing_and_Blurring.png'/></div>
+    <a href='/src/Color_Processing_and_Blurring.ipynb'>Link</a>
+</div>
