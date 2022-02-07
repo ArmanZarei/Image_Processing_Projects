@@ -54,5 +54,11 @@
     <a href='/src/KMeans.ipynb'>Link</a>
 </div>
 
+## SLIC Over Segmentation
+<div align='center'>
+    <div><img src='./images/SLIC.png'/></div>
+    <a href='/src/SLIC.ipynb'>Link</a>
+</div>
+
 - [Sharpening](/src/Sharpening.ipynb)
 - [Template Matching](/src/Template_Matching.ipynb)
